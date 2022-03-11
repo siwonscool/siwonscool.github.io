@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: Kim Cool
-author_bio: 음.. 그냥 코딩하면서 고민했던걸 적어보려구요..
+author_bio: 개발하면서 고민했던걸 공유해보려 합니다.
 author_email: "kimsea-blue@naver.com"
 author_location: Korea
 author_website_url: "https://dev-cool.tistory.com/"
-typewrite-text: 안녕하세요 김쿨 블로그에 오신것을 환영합니다.
+typewrite-text: 안녕하세요 저의 블로그에 오신것을 환영합니다.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
