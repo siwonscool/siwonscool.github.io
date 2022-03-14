@@ -9,7 +9,6 @@ thumbnail: /assets/img/posts/code.jpg
 keywords: 
 permalink: /blog/reply/
 usemathjax: true
-comments: true
 ---
 # 댓글 나와주세요!
 > 제대로 나올까요
