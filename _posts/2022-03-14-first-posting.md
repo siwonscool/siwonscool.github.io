@@ -9,7 +9,6 @@ thumbnail: /assets/img/posts/code.jpg
 keywords: 
 permalink: /blog/first-posting/
 usemathjax: true
-comments: true
 ---
 
 ```java
