@@ -3,7 +3,7 @@ name: cool
 username: KimCool
 bio: "안녕하세요 반갑습니다."
 site: https://dev-cool.tistory.com
-avatar: siwonIcon.jpg
+avatar: siwonIcon.png
 email: kimsea-blue@naver.com
 social:
     - title: "github"
