@@ -3,7 +3,7 @@ layout: post
 title:  [VirtualBox] Ubuntu Server 설치하기 (CLI 환경)
 summary: 
 author: KimCool
-date: '2022-03-14 09:43:00 +0900'
+date: '2022-03-29 15:53:00 +0900'
 category: ubuntu
 thumbnail: /assets/img/posts/ubuntu.png
 keywords:
