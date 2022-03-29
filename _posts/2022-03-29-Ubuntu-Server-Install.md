@@ -4,7 +4,7 @@ title:  [VirtualBox] Ubuntu Server 설치하기 (CLI 환경)
 summary: 
 author: KimCool
 date: '2022-03-14 09:43:00 +0900'
-category: Ubuntu
+category: ubuntu
 thumbnail: /assets/img/posts/ubuntu.png
 keywords:
 permalink: /blog/first-posting/
