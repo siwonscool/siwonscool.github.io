@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [VirtualBox] Ubuntu Server 설치하기 (CLI 환경)
+title:  VirtualBox 에 Ubuntu Server 설치하기 (CLI 환경)
 summary: 
 author: KimCool
 date: '2022-03-29 15:53:00 +0900'
