@@ -4,10 +4,10 @@ title:  "VirtualBox 에 Ubuntu Server 설치하기 (CLI 환경)"
 summary: ""
 author: KimCool
 date: '2022-03-29 15:53:00 +0900'
-category: ubuntu
+category: java
 thumbnail: /assets/img/posts/ubuntu.png
 keywords:
-permalink: /blog/ubuntuinstall/
+permalink: /blog/ubuntu1/
 usemathjax: true
 ---
 
@@ -23,10 +23,7 @@ usemathjax: true
 
 ### :white_flower: Server image 다운로드
 
-<a href="https://ubuntu.com/download/server">다운로드 페이지</a>로 이동하여 아래 과정을 따라가보자.
 
-<img src="/assets/img/posts/Ubuntu_Server_Install_1.png">
-<img src="/assets/img/posts/Ubuntu_Server_Install_2.png">
 
 ### :white_flower: VirtualBox에 VM 생성하기
 
